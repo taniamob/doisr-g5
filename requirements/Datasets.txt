@@ -10,3 +10,5 @@ https://www.kaggle.com/datasets/jeradrosekag/imdb-5000-movie-dataset
 
 - IMDb Movie Reviews Genres Description and Emotions
 https://www.kaggle.com/datasets/fahadrehman07/movie-reviews-and-emotion-dataset 
+
+appsudara
