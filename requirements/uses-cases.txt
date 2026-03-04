@@ -4,7 +4,7 @@ Use Case 1: Web Application of Search Film
     It shows a catalog and poster of the movie.
 	Features: < TODO>
 
-Use Case 3: Web Application of Movie Reviews ( opinions and comments )
+Use Case 2: Web Application of Movie Reviews ( opinions and comments )
     Users can save movies that they have seen, rate them from 0-10, leave a comment and reviews about the movie.
     This website also show in linked url for more information. 
     Also where they can see how popular the films are, trending, most views and reviews.
