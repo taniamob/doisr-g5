@@ -13,5 +13,10 @@ Use Case 2: Web Application of Movie Reviews ( opinions and comments )
 Use Case 3: Web Application of Movie Suggestions
     Users can see recommendations of various movies depending on the genre, actors, directors, language, ratings.
     It can take into consideration the movies the user has seen & his ratings for better recommendations
-    I will be a in a catalog that will show the poster of the movie and various details like release date, rating, genre.
+    It will be a in a catalog that will show the poster of the movie and various details like release date, rating, genre.
     Features: <TODO>
+
+Use Case 4: Web Application of Upcoming Movies
+    Users will be able to see a catalog of movies that are coming out in the near future, there will be filters like genres, release date
+    It will have urls that will be pointing to the movies trailers or website
+    It will show the poster of the movie, actors, director, crew, genre, release date.
